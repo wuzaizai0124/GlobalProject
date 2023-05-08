@@ -1,0 +1,128 @@
+2023-03-21 18:16:23.1790 | Error | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-21 18:16:23
+【调用路径】：
+【请求数据】：
+【返回数据】：
+【错误信息】：Specified method is not supported.
+【错误源】：Microsoft.AspNetCore.Server.Kestrel.Core
+【引发异常方法】：Void set_Position(Int64)
+【详情信息】：   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream.set_Position(Int64 value)
+   at GlobalProject.Infrastructure.Log.NlogMiddlewareProvider.Invoke(HttpContext context) in D:\BaiduNetdiskDownload\Global\GlobalProject\GlobalProject.Infrastructure\Log\NlogMiddlewareProvider.cs:line 36
+【请求结束时间】:2023-03-21 18:16:23 115
+
+*************************************结束***********************************
+ 
+2023-03-21 18:16:29.0604 | Error | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-21 18:16:29
+【调用路径】：
+【请求数据】：
+【返回数据】：
+【错误信息】：Specified method is not supported.
+【错误源】：Microsoft.AspNetCore.Server.Kestrel.Core
+【引发异常方法】：Void set_Position(Int64)
+【详情信息】：   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream.set_Position(Int64 value)
+   at GlobalProject.Infrastructure.Log.NlogMiddlewareProvider.Invoke(HttpContext context) in D:\BaiduNetdiskDownload\Global\GlobalProject\GlobalProject.Infrastructure\Log\NlogMiddlewareProvider.cs:line 36
+【请求结束时间】:2023-03-21 18:16:29 060
+
+*************************************结束***********************************
+ 
+2023-03-21 18:17:50.4978 | Error | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-21 18:17:50
+【调用路径】：
+【请求数据】：
+【返回数据】：
+【错误信息】：Specified method is not supported.
+【错误源】：Microsoft.AspNetCore.Server.Kestrel.Core
+【引发异常方法】：Void set_Position(Int64)
+【详情信息】：   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream.set_Position(Int64 value)
+   at GlobalProject.Infrastructure.Log.NlogMiddlewareProvider.Invoke(HttpContext context) in D:\BaiduNetdiskDownload\Global\GlobalProject\GlobalProject.Infrastructure\Log\NlogMiddlewareProvider.cs:line 37
+【请求结束时间】:2023-03-21 18:17:50 434
+
+*************************************结束***********************************
+ 
+2023-03-21 18:17:50.6797 | Error | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-21 18:17:50
+【调用路径】：
+【请求数据】：
+【返回数据】：
+【错误信息】：Specified method is not supported.
+【错误源】：Microsoft.AspNetCore.Server.Kestrel.Core
+【引发异常方法】：Void set_Position(Int64)
+【详情信息】：   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream.set_Position(Int64 value)
+   at GlobalProject.Infrastructure.Log.NlogMiddlewareProvider.Invoke(HttpContext context) in D:\BaiduNetdiskDownload\Global\GlobalProject\GlobalProject.Infrastructure\Log\NlogMiddlewareProvider.cs:line 37
+【请求结束时间】:2023-03-21 18:17:50 679
+
+*************************************结束***********************************
+ 
+2023-03-21 18:17:58.6490 | Error | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-21 18:17:58
+【调用路径】：
+【请求数据】：
+【返回数据】：
+【错误信息】：Specified method is not supported.
+【错误源】：Microsoft.AspNetCore.Server.Kestrel.Core
+【引发异常方法】：Void set_Position(Int64)
+【详情信息】：   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream.set_Position(Int64 value)
+   at GlobalProject.Infrastructure.Log.NlogMiddlewareProvider.Invoke(HttpContext context) in D:\BaiduNetdiskDownload\Global\GlobalProject\GlobalProject.Infrastructure\Log\NlogMiddlewareProvider.cs:line 37
+【请求结束时间】:2023-03-21 18:17:58 648
+
+*************************************结束***********************************
+ 
+2023-03-21 18:27:59.0244 | Error | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-21 18:27:58
+【调用路径】：
+【请求数据】：
+【返回数据】：
+【错误信息】：Specified method is not supported.
+【错误源】：Microsoft.AspNetCore.Server.Kestrel.Core
+【引发异常方法】：Void set_Position(Int64)
+【详情信息】：   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream.set_Position(Int64 value)
+   at GlobalProject.Infrastructure.Log.NlogMiddlewareProvider.Invoke(HttpContext context) in D:\BaiduNetdiskDownload\Global\GlobalProject\GlobalProject.Infrastructure\Log\NlogMiddlewareProvider.cs:line 37
+【请求结束时间】:2023-03-21 18:27:58 966
+
+*************************************结束***********************************
+ 
+2023-03-21 18:27:59.2305 | Error | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-21 18:27:59
+【调用路径】：
+【请求数据】：
+【返回数据】：
+【错误信息】：Specified method is not supported.
+【错误源】：Microsoft.AspNetCore.Server.Kestrel.Core
+【引发异常方法】：Void set_Position(Int64)
+【详情信息】：   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream.set_Position(Int64 value)
+   at GlobalProject.Infrastructure.Log.NlogMiddlewareProvider.Invoke(HttpContext context) in D:\BaiduNetdiskDownload\Global\GlobalProject\GlobalProject.Infrastructure\Log\NlogMiddlewareProvider.cs:line 37
+【请求结束时间】:2023-03-21 18:27:59 230
+
+*************************************结束***********************************
+ 
+2023-03-21 18:28:09.4222 | Error | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-21 18:28:09
+【调用路径】：
+【请求数据】：
+【返回数据】：
+【错误信息】：Specified method is not supported.
+【错误源】：Microsoft.AspNetCore.Server.Kestrel.Core
+【引发异常方法】：Void set_Position(Int64)
+【详情信息】：   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream.set_Position(Int64 value)
+   at GlobalProject.Infrastructure.Log.NlogMiddlewareProvider.Invoke(HttpContext context) in D:\BaiduNetdiskDownload\Global\GlobalProject\GlobalProject.Infrastructure\Log\NlogMiddlewareProvider.cs:line 37
+【请求结束时间】:2023-03-21 18:28:09 421
+
+*************************************结束***********************************
+ 

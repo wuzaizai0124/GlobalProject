@@ -1,0 +1,11 @@
+D:\BaiduNetdiskDownload\Global\GlobalProject\GlobalProject.Model\bin\Debug\netcoreapp3.1\GlobalProject.Model.deps.json
+D:\BaiduNetdiskDownload\Global\GlobalProject\GlobalProject.Model\bin\Debug\netcoreapp3.1\GlobalProject.Model.dll
+D:\BaiduNetdiskDownload\Global\GlobalProject\GlobalProject.Model\bin\Debug\netcoreapp3.1\GlobalProject.Model.pdb
+D:\BaiduNetdiskDownload\Global\GlobalProject\GlobalProject.Model\obj\Debug\netcoreapp3.1\GlobalProject.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaiduNetdiskDownload\Global\GlobalProject\GlobalProject.Model\obj\Debug\netcoreapp3.1\GlobalProject.Model.AssemblyInfoInputs.cache
+D:\BaiduNetdiskDownload\Global\GlobalProject\GlobalProject.Model\obj\Debug\netcoreapp3.1\GlobalProject.Model.AssemblyInfo.cs
+D:\BaiduNetdiskDownload\Global\GlobalProject\GlobalProject.Model\obj\Debug\netcoreapp3.1\GlobalProject.Model.csproj.CoreCompileInputs.cache
+D:\BaiduNetdiskDownload\Global\GlobalProject\GlobalProject.Model\obj\Debug\netcoreapp3.1\GlobalProject.Model.dll
+D:\BaiduNetdiskDownload\Global\GlobalProject\GlobalProject.Model\obj\Debug\netcoreapp3.1\GlobalProject.Model.pdb
+D:\BaiduNetdiskDownload\Global\GlobalProject\GlobalProject.Model\bin\Debug\netcoreapp3.1\GlobalProject.Model.xml
+D:\BaiduNetdiskDownload\Global\GlobalProject\GlobalProject.Model\obj\Debug\netcoreapp3.1\GlobalProject.Model.csproj.AssemblyReference.cache

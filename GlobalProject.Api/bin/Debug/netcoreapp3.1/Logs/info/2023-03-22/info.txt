@@ -1,0 +1,1677 @@
+2023-03-22 09:06:07.3125 | Info | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-22 09:06:07
+【请求开使时间】:2023-03-22 09:06:07 143
+【调用路径】：/swagger/index.html
+【请求数据】：
+【返回数据】：
+【请求结束时间】:2023-03-22 09:06:07 311
+
+*************************************结束***********************************
+ 
+2023-03-22 09:06:08.2570 | Info | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-22 09:06:08
+【请求开使时间】:2023-03-22 09:06:08 207
+【调用路径】：/swagger/v1/swagger.json
+【请求数据】：
+【返回数据】：
+【请求结束时间】:2023-03-22 09:06:08 256
+
+*************************************结束***********************************
+ 
+2023-03-22 09:06:27.2575 | Info | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-22 09:06:27
+【请求开使时间】:2023-03-22 09:06:17 068
+【调用路径】：/api/Health/checkhealth
+【请求数据】：111
+【返回数据】：
+【请求结束时间】:2023-03-22 09:06:27 257
+
+*************************************结束***********************************
+ 
+2023-03-22 09:07:02.9006 | Info | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-22 09:07:02
+【请求开使时间】:2023-03-22 09:07:02 765
+【调用路径】：/swagger/index.html
+【请求数据】：
+【返回数据】：
+【请求结束时间】:2023-03-22 09:07:02 899
+
+*************************************结束***********************************
+ 
+2023-03-22 09:07:03.4245 | Info | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-22 09:07:03
+【请求开使时间】:2023-03-22 09:07:03 372
+【调用路径】：/swagger/v1/swagger.json
+【请求数据】：
+【返回数据】：
+【请求结束时间】:2023-03-22 09:07:03 424
+
+*************************************结束***********************************
+ 
+2023-03-22 09:35:44.5772 | Info | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-22 09:35:44
+【请求开使时间】:2023-03-22 09:35:38 159
+【调用路径】：/swagger/index.html
+【请求数据】：
+【返回数据】：
+【请求结束时间】:2023-03-22 09:35:44 575
+
+*************************************结束***********************************
+ 
+2023-03-22 09:35:45.0271 | Info | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-22 09:35:45
+【请求开使时间】:2023-03-22 09:35:44 682
+【调用路径】：/swagger/v1/swagger.json
+【请求数据】：
+【返回数据】：
+【请求结束时间】:2023-03-22 09:35:45 027
+
+*************************************结束***********************************
+ 
+2023-03-22 09:36:44.5703 | Info | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-22 09:36:44
+【请求开使时间】:2023-03-22 09:35:53 288
+【调用路径】：/api/Health/checkhealth
+【请求数据】：11
+【返回数据】：
+【请求结束时间】:2023-03-22 09:36:44 570
+
+*************************************结束***********************************
+ 
+2023-03-22 09:37:15.1186 | Info | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-22 09:37:15
+【请求开使时间】:2023-03-22 09:37:10 705
+【调用路径】：/api/Health/checkhealth
+【请求数据】：11
+【返回数据】：
+【请求结束时间】:2023-03-22 09:37:15 118
+
+*************************************结束***********************************
+ 
+2023-03-22 09:42:15.2781 | Info | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-22 09:42:15
+【请求开使时间】:2023-03-22 09:42:11 600
+【调用路径】：/swagger/index.html
+【请求数据】：
+【返回数据】：
+【请求结束时间】:2023-03-22 09:42:15 276
+
+*************************************结束***********************************
+ 
+2023-03-22 09:42:18.3483 | Info | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-22 09:42:18
+【请求开使时间】:2023-03-22 09:42:15 382
+【调用路径】：/swagger/v1/swagger.json
+【请求数据】：
+【返回数据】：
+【请求结束时间】:2023-03-22 09:42:18 348
+
+*************************************结束***********************************
+ 
+2023-03-22 09:46:38.0255 | Info | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-22 09:46:38
+【请求开使时间】:2023-03-22 09:46:37 864
+【调用路径】：/swagger/index.html
+【请求数据】：
+【返回数据】：<!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Swagger UI</title>
+    <link rel="stylesheet" type="text/css" href="./swagger-ui.css">
+    <link rel="icon" type="image/png" href="./favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="./favicon-16x16.png" sizes="16x16" />
+    <style>
+
+        html {
+            box-sizing: border-box;
+            overflow: -moz-scrollbars-vertical;
+            overflow-y: scroll;
+        }
+
+        *,
+        *:before,
+        *:after {
+            box-sizing: inherit;
+        }
+
+        body {
+            margin: 0;
+            background: #fafafa;
+        }
+    </style>
+    
+</head>
+
+<body>
+    <div id="swagger-ui"></div>
+
+    <!-- Workaround for https://github.com/swagger-api/swagger-editor/issues/1371 -->
+    <script>
+        if (window.navigator.userAgent.indexOf("Edge") > -1) {
+            console.log("Removing native Edge fetch in favor of swagger-ui's polyfill")
+            window.fetch = undefined;
+        }
+    </script>
+
+    <script src="./swagger-ui-bundle.js"></script>
+    <script src="./swagger-ui-standalone-preset.js"></script>
+    <script>
+        window.onload = function () {
+            var configObject = JSON.parse('{"urls":[{"url":"/swagger/v1/swagger.json","name":"GlobalProject.Api v1"}],"deepLinking":false,"displayOperationId":false,"defaultModelsExpandDepth":1,"defaultModelExpandDepth":1,"defaultModelRendering":"example","displayRequestDuration":false,"docExpansion":"list","showExtensions":false,"showCommonExtensions":false,"supportedSubmitMethods":["get","put","post","delete","options","head","patch","trace"]}');
+            var oauthConfigObject = JSON.parse('{"scopeSeparator":" ","useBasicAuthenticationWithAccessCodeGrant":false,"usePkceWithAuthorizationCodeGrant":false}');
+
+            // Workaround for https://github.com/swagger-api/swagger-ui/issues/5945
+            configObject.urls.forEach(function (item) {
+                if (item.url.startsWith("http") || item.url.startsWith("/")) return;
+                item.url = window.location.href.replace("index.html", item.url).split('#')[0];
+            });
+
+            // If validatorUrl is not explicitly provided, disable the feature by setting to null
+            if (!configObject.hasOwnProperty("validatorUrl"))
+                configObject.validatorUrl = null
+
+            // If oauth2RedirectUrl isn't specified, use the built-in default
+            if (!configObject.hasOwnProperty("oauth2RedirectUrl"))
+                configObject.oauth2RedirectUrl = window.location.href.replace("index.html", "oauth2-redirect.html").split('#')[0];
+
+            // Apply mandatory parameters
+            configObject.dom_id = "#swagger-ui";
+            configObject.presets = [SwaggerUIBundle.presets.apis, SwaggerUIStandalonePreset];
+            configObject.layout = "StandaloneLayout";
+
+            // Begin Swagger UI call region
+
+            const ui = SwaggerUIBundle(configObject);
+
+            ui.initOAuth(oauthConfigObject);
+
+            // End Swagger UI call region
+
+            window.ui = ui
+        }
+    </script>
+</body>
+</html>
+
+【请求结束时间】:2023-03-22 09:46:38 024
+
+*************************************结束***********************************
+ 
+2023-03-22 09:46:38.1472 | Info | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-22 09:46:38
+【请求开使时间】:2023-03-22 09:46:38 103
+【调用路径】：/favicon.ico
+【请求数据】：
+【返回数据】：
+【请求结束时间】:2023-03-22 09:46:38 147
+
+*************************************结束***********************************
+ 
+2023-03-22 09:46:50.5564 | Info | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-22 09:46:50
+【请求开使时间】:2023-03-22 09:46:50 552
+【调用路径】：/swagger/index.html
+【请求数据】：
+【返回数据】：<!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Swagger UI</title>
+    <link rel="stylesheet" type="text/css" href="./swagger-ui.css">
+    <link rel="icon" type="image/png" href="./favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="./favicon-16x16.png" sizes="16x16" />
+    <style>
+
+        html {
+            box-sizing: border-box;
+            overflow: -moz-scrollbars-vertical;
+            overflow-y: scroll;
+        }
+
+        *,
+        *:before,
+        *:after {
+            box-sizing: inherit;
+        }
+
+        body {
+            margin: 0;
+            background: #fafafa;
+        }
+    </style>
+    
+</head>
+
+<body>
+    <div id="swagger-ui"></div>
+
+    <!-- Workaround for https://github.com/swagger-api/swagger-editor/issues/1371 -->
+    <script>
+        if (window.navigator.userAgent.indexOf("Edge") > -1) {
+            console.log("Removing native Edge fetch in favor of swagger-ui's polyfill")
+            window.fetch = undefined;
+        }
+    </script>
+
+    <script src="./swagger-ui-bundle.js"></script>
+    <script src="./swagger-ui-standalone-preset.js"></script>
+    <script>
+        window.onload = function () {
+            var configObject = JSON.parse('{"urls":[{"url":"/swagger/v1/swagger.json","name":"GlobalProject.Api v1"}],"deepLinking":false,"displayOperationId":false,"defaultModelsExpandDepth":1,"defaultModelExpandDepth":1,"defaultModelRendering":"example","displayRequestDuration":false,"docExpansion":"list","showExtensions":false,"showCommonExtensions":false,"supportedSubmitMethods":["get","put","post","delete","options","head","patch","trace"]}');
+            var oauthConfigObject = JSON.parse('{"scopeSeparator":" ","useBasicAuthenticationWithAccessCodeGrant":false,"usePkceWithAuthorizationCodeGrant":false}');
+
+            // Workaround for https://github.com/swagger-api/swagger-ui/issues/5945
+            configObject.urls.forEach(function (item) {
+                if (item.url.startsWith("http") || item.url.startsWith("/")) return;
+                item.url = window.location.href.replace("index.html", item.url).split('#')[0];
+            });
+
+            // If validatorUrl is not explicitly provided, disable the feature by setting to null
+            if (!configObject.hasOwnProperty("validatorUrl"))
+                configObject.validatorUrl = null
+
+            // If oauth2RedirectUrl isn't specified, use the built-in default
+            if (!configObject.hasOwnProperty("oauth2RedirectUrl"))
+                configObject.oauth2RedirectUrl = window.location.href.replace("index.html", "oauth2-redirect.html").split('#')[0];
+
+            // Apply mandatory parameters
+            configObject.dom_id = "#swagger-ui";
+            configObject.presets = [SwaggerUIBundle.presets.apis, SwaggerUIStandalonePreset];
+            configObject.layout = "StandaloneLayout";
+
+            // Begin Swagger UI call region
+
+            const ui = SwaggerUIBundle(configObject);
+
+            ui.initOAuth(oauthConfigObject);
+
+            // End Swagger UI call region
+
+            window.ui = ui
+        }
+    </script>
+</body>
+</html>
+
+【请求结束时间】:2023-03-22 09:46:50 556
+
+*************************************结束***********************************
+ 
+2023-03-22 09:47:35.8844 | Info | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-22 09:47:35
+【请求开使时间】:2023-03-22 09:47:35 883
+【调用路径】：/health/checkhealth
+【请求数据】：
+【返回数据】：
+【请求结束时间】:2023-03-22 09:47:35 884
+
+*************************************结束***********************************
+ 
+2023-03-22 09:51:04.9046 | Info | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-22 09:51:04
+【请求开使时间】:2023-03-22 09:51:04 753
+【调用路径】：/swagger/index.html
+【请求数据】：
+【返回数据】：<!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Swagger UI</title>
+    <link rel="stylesheet" type="text/css" href="./swagger-ui.css">
+    <link rel="icon" type="image/png" href="./favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="./favicon-16x16.png" sizes="16x16" />
+    <style>
+
+        html {
+            box-sizing: border-box;
+            overflow: -moz-scrollbars-vertical;
+            overflow-y: scroll;
+        }
+
+        *,
+        *:before,
+        *:after {
+            box-sizing: inherit;
+        }
+
+        body {
+            margin: 0;
+            background: #fafafa;
+        }
+    </style>
+    
+</head>
+
+<body>
+    <div id="swagger-ui"></div>
+
+    <!-- Workaround for https://github.com/swagger-api/swagger-editor/issues/1371 -->
+    <script>
+        if (window.navigator.userAgent.indexOf("Edge") > -1) {
+            console.log("Removing native Edge fetch in favor of swagger-ui's polyfill")
+            window.fetch = undefined;
+        }
+    </script>
+
+    <script src="./swagger-ui-bundle.js"></script>
+    <script src="./swagger-ui-standalone-preset.js"></script>
+    <script>
+        window.onload = function () {
+            var configObject = JSON.parse('{"urls":[{"url":"/swagger/v1/swagger.json","name":"GlobalProject.Api v1"}],"deepLinking":false,"displayOperationId":false,"defaultModelsExpandDepth":1,"defaultModelExpandDepth":1,"defaultModelRendering":"example","displayRequestDuration":false,"docExpansion":"list","showExtensions":false,"showCommonExtensions":false,"supportedSubmitMethods":["get","put","post","delete","options","head","patch","trace"]}');
+            var oauthConfigObject = JSON.parse('{"scopeSeparator":" ","useBasicAuthenticationWithAccessCodeGrant":false,"usePkceWithAuthorizationCodeGrant":false}');
+
+            // Workaround for https://github.com/swagger-api/swagger-ui/issues/5945
+            configObject.urls.forEach(function (item) {
+                if (item.url.startsWith("http") || item.url.startsWith("/")) return;
+                item.url = window.location.href.replace("index.html", item.url).split('#')[0];
+            });
+
+            // If validatorUrl is not explicitly provided, disable the feature by setting to null
+            if (!configObject.hasOwnProperty("validatorUrl"))
+                configObject.validatorUrl = null
+
+            // If oauth2RedirectUrl isn't specified, use the built-in default
+            if (!configObject.hasOwnProperty("oauth2RedirectUrl"))
+                configObject.oauth2RedirectUrl = window.location.href.replace("index.html", "oauth2-redirect.html").split('#')[0];
+
+            // Apply mandatory parameters
+            configObject.dom_id = "#swagger-ui";
+            configObject.presets = [SwaggerUIBundle.presets.apis, SwaggerUIStandalonePreset];
+            configObject.layout = "StandaloneLayout";
+
+            // Begin Swagger UI call region
+
+            const ui = SwaggerUIBundle(configObject);
+
+            ui.initOAuth(oauthConfigObject);
+
+            // End Swagger UI call region
+
+            window.ui = ui
+        }
+    </script>
+</body>
+</html>
+
+【请求结束时间】:2023-03-22 09:51:04 901
+
+*************************************结束***********************************
+ 
+2023-03-22 09:51:20.6353 | Info | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-22 09:51:20
+【请求开使时间】:2023-03-22 09:51:20 631
+【调用路径】：/swagger/index.html
+【请求数据】：
+【返回数据】：<!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Swagger UI</title>
+    <link rel="stylesheet" type="text/css" href="./swagger-ui.css">
+    <link rel="icon" type="image/png" href="./favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="./favicon-16x16.png" sizes="16x16" />
+    <style>
+
+        html {
+            box-sizing: border-box;
+            overflow: -moz-scrollbars-vertical;
+            overflow-y: scroll;
+        }
+
+        *,
+        *:before,
+        *:after {
+            box-sizing: inherit;
+        }
+
+        body {
+            margin: 0;
+            background: #fafafa;
+        }
+    </style>
+    
+</head>
+
+<body>
+    <div id="swagger-ui"></div>
+
+    <!-- Workaround for https://github.com/swagger-api/swagger-editor/issues/1371 -->
+    <script>
+        if (window.navigator.userAgent.indexOf("Edge") > -1) {
+            console.log("Removing native Edge fetch in favor of swagger-ui's polyfill")
+            window.fetch = undefined;
+        }
+    </script>
+
+    <script src="./swagger-ui-bundle.js"></script>
+    <script src="./swagger-ui-standalone-preset.js"></script>
+    <script>
+        window.onload = function () {
+            var configObject = JSON.parse('{"urls":[{"url":"/swagger/v1/swagger.json","name":"GlobalProject.Api v1"}],"deepLinking":false,"displayOperationId":false,"defaultModelsExpandDepth":1,"defaultModelExpandDepth":1,"defaultModelRendering":"example","displayRequestDuration":false,"docExpansion":"list","showExtensions":false,"showCommonExtensions":false,"supportedSubmitMethods":["get","put","post","delete","options","head","patch","trace"]}');
+            var oauthConfigObject = JSON.parse('{"scopeSeparator":" ","useBasicAuthenticationWithAccessCodeGrant":false,"usePkceWithAuthorizationCodeGrant":false}');
+
+            // Workaround for https://github.com/swagger-api/swagger-ui/issues/5945
+            configObject.urls.forEach(function (item) {
+                if (item.url.startsWith("http") || item.url.startsWith("/")) return;
+                item.url = window.location.href.replace("index.html", item.url).split('#')[0];
+            });
+
+            // If validatorUrl is not explicitly provided, disable the feature by setting to null
+            if (!configObject.hasOwnProperty("validatorUrl"))
+                configObject.validatorUrl = null
+
+            // If oauth2RedirectUrl isn't specified, use the built-in default
+            if (!configObject.hasOwnProperty("oauth2RedirectUrl"))
+                configObject.oauth2RedirectUrl = window.location.href.replace("index.html", "oauth2-redirect.html").split('#')[0];
+
+            // Apply mandatory parameters
+            configObject.dom_id = "#swagger-ui";
+            configObject.presets = [SwaggerUIBundle.presets.apis, SwaggerUIStandalonePreset];
+            configObject.layout = "StandaloneLayout";
+
+            // Begin Swagger UI call region
+
+            const ui = SwaggerUIBundle(configObject);
+
+            ui.initOAuth(oauthConfigObject);
+
+            // End Swagger UI call region
+
+            window.ui = ui
+        }
+    </script>
+</body>
+</html>
+
+【请求结束时间】:2023-03-22 09:51:20 634
+
+*************************************结束***********************************
+ 
+2023-03-22 09:51:26.6359 | Info | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-22 09:51:26
+【请求开使时间】:2023-03-22 09:51:26 634
+【调用路径】：/swagger/index.html
+【请求数据】：
+【返回数据】：<!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Swagger UI</title>
+    <link rel="stylesheet" type="text/css" href="./swagger-ui.css">
+    <link rel="icon" type="image/png" href="./favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="./favicon-16x16.png" sizes="16x16" />
+    <style>
+
+        html {
+            box-sizing: border-box;
+            overflow: -moz-scrollbars-vertical;
+            overflow-y: scroll;
+        }
+
+        *,
+        *:before,
+        *:after {
+            box-sizing: inherit;
+        }
+
+        body {
+            margin: 0;
+            background: #fafafa;
+        }
+    </style>
+    
+</head>
+
+<body>
+    <div id="swagger-ui"></div>
+
+    <!-- Workaround for https://github.com/swagger-api/swagger-editor/issues/1371 -->
+    <script>
+        if (window.navigator.userAgent.indexOf("Edge") > -1) {
+            console.log("Removing native Edge fetch in favor of swagger-ui's polyfill")
+            window.fetch = undefined;
+        }
+    </script>
+
+    <script src="./swagger-ui-bundle.js"></script>
+    <script src="./swagger-ui-standalone-preset.js"></script>
+    <script>
+        window.onload = function () {
+            var configObject = JSON.parse('{"urls":[{"url":"/swagger/v1/swagger.json","name":"GlobalProject.Api v1"}],"deepLinking":false,"displayOperationId":false,"defaultModelsExpandDepth":1,"defaultModelExpandDepth":1,"defaultModelRendering":"example","displayRequestDuration":false,"docExpansion":"list","showExtensions":false,"showCommonExtensions":false,"supportedSubmitMethods":["get","put","post","delete","options","head","patch","trace"]}');
+            var oauthConfigObject = JSON.parse('{"scopeSeparator":" ","useBasicAuthenticationWithAccessCodeGrant":false,"usePkceWithAuthorizationCodeGrant":false}');
+
+            // Workaround for https://github.com/swagger-api/swagger-ui/issues/5945
+            configObject.urls.forEach(function (item) {
+                if (item.url.startsWith("http") || item.url.startsWith("/")) return;
+                item.url = window.location.href.replace("index.html", item.url).split('#')[0];
+            });
+
+            // If validatorUrl is not explicitly provided, disable the feature by setting to null
+            if (!configObject.hasOwnProperty("validatorUrl"))
+                configObject.validatorUrl = null
+
+            // If oauth2RedirectUrl isn't specified, use the built-in default
+            if (!configObject.hasOwnProperty("oauth2RedirectUrl"))
+                configObject.oauth2RedirectUrl = window.location.href.replace("index.html", "oauth2-redirect.html").split('#')[0];
+
+            // Apply mandatory parameters
+            configObject.dom_id = "#swagger-ui";
+            configObject.presets = [SwaggerUIBundle.presets.apis, SwaggerUIStandalonePreset];
+            configObject.layout = "StandaloneLayout";
+
+            // Begin Swagger UI call region
+
+            const ui = SwaggerUIBundle(configObject);
+
+            ui.initOAuth(oauthConfigObject);
+
+            // End Swagger UI call region
+
+            window.ui = ui
+        }
+    </script>
+</body>
+</html>
+
+【请求结束时间】:2023-03-22 09:51:26 635
+
+*************************************结束***********************************
+ 
+2023-03-22 09:52:10.6302 | Info | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-22 09:52:10
+【请求开使时间】:2023-03-22 09:52:10 476
+【调用路径】：/swagger/index.html
+【请求数据】：
+【返回数据】：<!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Swagger UI</title>
+    <link rel="stylesheet" type="text/css" href="./swagger-ui.css">
+    <link rel="icon" type="image/png" href="./favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="./favicon-16x16.png" sizes="16x16" />
+    <style>
+
+        html {
+            box-sizing: border-box;
+            overflow: -moz-scrollbars-vertical;
+            overflow-y: scroll;
+        }
+
+        *,
+        *:before,
+        *:after {
+            box-sizing: inherit;
+        }
+
+        body {
+            margin: 0;
+            background: #fafafa;
+        }
+    </style>
+    
+</head>
+
+<body>
+    <div id="swagger-ui"></div>
+
+    <!-- Workaround for https://github.com/swagger-api/swagger-editor/issues/1371 -->
+    <script>
+        if (window.navigator.userAgent.indexOf("Edge") > -1) {
+            console.log("Removing native Edge fetch in favor of swagger-ui's polyfill")
+            window.fetch = undefined;
+        }
+    </script>
+
+    <script src="./swagger-ui-bundle.js"></script>
+    <script src="./swagger-ui-standalone-preset.js"></script>
+    <script>
+        window.onload = function () {
+            var configObject = JSON.parse('{"urls":[{"url":"/swagger/v1/swagger.json","name":"GlobalProject.Api v1"}],"deepLinking":false,"displayOperationId":false,"defaultModelsExpandDepth":1,"defaultModelExpandDepth":1,"defaultModelRendering":"example","displayRequestDuration":false,"docExpansion":"list","showExtensions":false,"showCommonExtensions":false,"supportedSubmitMethods":["get","put","post","delete","options","head","patch","trace"]}');
+            var oauthConfigObject = JSON.parse('{"scopeSeparator":" ","useBasicAuthenticationWithAccessCodeGrant":false,"usePkceWithAuthorizationCodeGrant":false}');
+
+            // Workaround for https://github.com/swagger-api/swagger-ui/issues/5945
+            configObject.urls.forEach(function (item) {
+                if (item.url.startsWith("http") || item.url.startsWith("/")) return;
+                item.url = window.location.href.replace("index.html", item.url).split('#')[0];
+            });
+
+            // If validatorUrl is not explicitly provided, disable the feature by setting to null
+            if (!configObject.hasOwnProperty("validatorUrl"))
+                configObject.validatorUrl = null
+
+            // If oauth2RedirectUrl isn't specified, use the built-in default
+            if (!configObject.hasOwnProperty("oauth2RedirectUrl"))
+                configObject.oauth2RedirectUrl = window.location.href.replace("index.html", "oauth2-redirect.html").split('#')[0];
+
+            // Apply mandatory parameters
+            configObject.dom_id = "#swagger-ui";
+            configObject.presets = [SwaggerUIBundle.presets.apis, SwaggerUIStandalonePreset];
+            configObject.layout = "StandaloneLayout";
+
+            // Begin Swagger UI call region
+
+            const ui = SwaggerUIBundle(configObject);
+
+            ui.initOAuth(oauthConfigObject);
+
+            // End Swagger UI call region
+
+            window.ui = ui
+        }
+    </script>
+</body>
+</html>
+
+【请求结束时间】:2023-03-22 09:52:10 628
+
+*************************************结束***********************************
+ 
+2023-03-22 09:52:10.8256 | Info | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-22 09:52:10
+【请求开使时间】:2023-03-22 09:52:10 757
+【调用路径】：/swagger/v1/swagger.json
+【请求数据】：
+【返回数据】：{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "GlobalProject.Api",
+    "version": "v1"
+  },
+  "paths": {
+    "/api/Health/checkhealth": {
+      "post": {
+        "tags": [
+          "Health"
+        ],
+        "summary": "健康检查",
+        "requestBody": {
+          "description": "字符串",
+          "content": {
+            "application/json-patch+json": {
+              "schema": {
+                "type": "string",
+                "description": "字符串",
+                "nullable": true
+              }
+            },
+            "application/json": {
+              "schema": {
+                "type": "string",
+                "description": "字符串",
+                "nullable": true
+              }
+            },
+            "text/json": {
+              "schema": {
+                "type": "string",
+                "description": "字符串",
+                "nullable": true
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "type": "string",
+                "description": "字符串",
+                "nullable": true
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "string"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "securitySchemes": {
+      "Bearer": {
+        "type": "http",
+        "description": "JWT Authorization header using the Bearer scheme.",
+        "scheme": "bearer",
+        "bearerFormat": "JWT"
+      }
+    }
+  },
+  "security": [
+    {
+      "Bearer": [ ]
+    }
+  ]
+}
+【请求结束时间】:2023-03-22 09:52:10 825
+
+*************************************结束***********************************
+ 
+2023-03-22 09:53:10.0833 | Info | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-22 09:53:10
+【请求开使时间】:2023-03-22 09:53:09 922
+【调用路径】：/swagger/index.html
+【请求数据】：
+【返回数据】：<!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Swagger UI</title>
+    <link rel="stylesheet" type="text/css" href="./swagger-ui.css">
+    <link rel="icon" type="image/png" href="./favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="./favicon-16x16.png" sizes="16x16" />
+    <style>
+
+        html {
+            box-sizing: border-box;
+            overflow: -moz-scrollbars-vertical;
+            overflow-y: scroll;
+        }
+
+        *,
+        *:before,
+        *:after {
+            box-sizing: inherit;
+        }
+
+        body {
+            margin: 0;
+            background: #fafafa;
+        }
+    </style>
+    
+</head>
+
+<body>
+    <div id="swagger-ui"></div>
+
+    <!-- Workaround for https://github.com/swagger-api/swagger-editor/issues/1371 -->
+    <script>
+        if (window.navigator.userAgent.indexOf("Edge") > -1) {
+            console.log("Removing native Edge fetch in favor of swagger-ui's polyfill")
+            window.fetch = undefined;
+        }
+    </script>
+
+    <script src="./swagger-ui-bundle.js"></script>
+    <script src="./swagger-ui-standalone-preset.js"></script>
+    <script>
+        window.onload = function () {
+            var configObject = JSON.parse('{"urls":[{"url":"/swagger/v1/swagger.json","name":"GlobalProject.Api v1"}],"deepLinking":false,"displayOperationId":false,"defaultModelsExpandDepth":1,"defaultModelExpandDepth":1,"defaultModelRendering":"example","displayRequestDuration":false,"docExpansion":"list","showExtensions":false,"showCommonExtensions":false,"supportedSubmitMethods":["get","put","post","delete","options","head","patch","trace"]}');
+            var oauthConfigObject = JSON.parse('{"scopeSeparator":" ","useBasicAuthenticationWithAccessCodeGrant":false,"usePkceWithAuthorizationCodeGrant":false}');
+
+            // Workaround for https://github.com/swagger-api/swagger-ui/issues/5945
+            configObject.urls.forEach(function (item) {
+                if (item.url.startsWith("http") || item.url.startsWith("/")) return;
+                item.url = window.location.href.replace("index.html", item.url).split('#')[0];
+            });
+
+            // If validatorUrl is not explicitly provided, disable the feature by setting to null
+            if (!configObject.hasOwnProperty("validatorUrl"))
+                configObject.validatorUrl = null
+
+            // If oauth2RedirectUrl isn't specified, use the built-in default
+            if (!configObject.hasOwnProperty("oauth2RedirectUrl"))
+                configObject.oauth2RedirectUrl = window.location.href.replace("index.html", "oauth2-redirect.html").split('#')[0];
+
+            // Apply mandatory parameters
+            configObject.dom_id = "#swagger-ui";
+            configObject.presets = [SwaggerUIBundle.presets.apis, SwaggerUIStandalonePreset];
+            configObject.layout = "StandaloneLayout";
+
+            // Begin Swagger UI call region
+
+            const ui = SwaggerUIBundle(configObject);
+
+            ui.initOAuth(oauthConfigObject);
+
+            // End Swagger UI call region
+
+            window.ui = ui
+        }
+    </script>
+</body>
+</html>
+
+【请求结束时间】:2023-03-22 09:53:10 081
+
+*************************************结束***********************************
+ 
+2023-03-22 09:53:10.3588 | Info | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-22 09:53:10
+【请求开使时间】:2023-03-22 09:53:10 227
+【调用路径】：/swagger/v1/swagger.json
+【请求数据】：
+【返回数据】：{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "GlobalProject.Api",
+    "version": "v1"
+  },
+  "paths": {
+    "/api/Health/checkhealth": {
+      "post": {
+        "tags": [
+          "Health"
+        ],
+        "summary": "健康检查",
+        "requestBody": {
+          "description": "字符串",
+          "content": {
+            "application/json-patch+json": {
+              "schema": {
+                "type": "string",
+                "description": "字符串",
+                "nullable": true
+              }
+            },
+            "application/json": {
+              "schema": {
+                "type": "string",
+                "description": "字符串",
+                "nullable": true
+              }
+            },
+            "text/json": {
+              "schema": {
+                "type": "string",
+                "description": "字符串",
+                "nullable": true
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "type": "string",
+                "description": "字符串",
+                "nullable": true
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "string"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "securitySchemes": {
+      "Bearer": {
+        "type": "http",
+        "description": "JWT Authorization header using the Bearer scheme.",
+        "scheme": "bearer",
+        "bearerFormat": "JWT"
+      }
+    }
+  },
+  "security": [
+    {
+      "Bearer": [ ]
+    }
+  ]
+}
+【请求结束时间】:2023-03-22 09:53:10 358
+
+*************************************结束***********************************
+ 
+2023-03-22 09:53:21.0640 | Info | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-22 09:53:21
+【请求开使时间】:2023-03-22 09:53:17 005
+【调用路径】：/api/Health/checkhealth
+【请求数据】：1111
+【返回数据】：1111
+【请求结束时间】:2023-03-22 09:53:21 063
+
+*************************************结束***********************************
+ 
+2023-03-22 09:56:55.9846 | Info | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-22 09:56:55
+【请求开使时间】:2023-03-22 09:56:55 798
+【调用路径】：/swagger/index.html
+【请求数据】：
+【返回数据】：<!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Swagger UI</title>
+    <link rel="stylesheet" type="text/css" href="./swagger-ui.css">
+    <link rel="icon" type="image/png" href="./favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="./favicon-16x16.png" sizes="16x16" />
+    <style>
+
+        html {
+            box-sizing: border-box;
+            overflow: -moz-scrollbars-vertical;
+            overflow-y: scroll;
+        }
+
+        *,
+        *:before,
+        *:after {
+            box-sizing: inherit;
+        }
+
+        body {
+            margin: 0;
+            background: #fafafa;
+        }
+    </style>
+    
+</head>
+
+<body>
+    <div id="swagger-ui"></div>
+
+    <!-- Workaround for https://github.com/swagger-api/swagger-editor/issues/1371 -->
+    <script>
+        if (window.navigator.userAgent.indexOf("Edge") > -1) {
+            console.log("Removing native Edge fetch in favor of swagger-ui's polyfill")
+            window.fetch = undefined;
+        }
+    </script>
+
+    <script src="./swagger-ui-bundle.js"></script>
+    <script src="./swagger-ui-standalone-preset.js"></script>
+    <script>
+        window.onload = function () {
+            var configObject = JSON.parse('{"urls":[{"url":"/swagger/v1/swagger.json","name":"GlobalProject.Api v1"}],"deepLinking":false,"displayOperationId":false,"defaultModelsExpandDepth":1,"defaultModelExpandDepth":1,"defaultModelRendering":"example","displayRequestDuration":false,"docExpansion":"list","showExtensions":false,"showCommonExtensions":false,"supportedSubmitMethods":["get","put","post","delete","options","head","patch","trace"]}');
+            var oauthConfigObject = JSON.parse('{"scopeSeparator":" ","useBasicAuthenticationWithAccessCodeGrant":false,"usePkceWithAuthorizationCodeGrant":false}');
+
+            // Workaround for https://github.com/swagger-api/swagger-ui/issues/5945
+            configObject.urls.forEach(function (item) {
+                if (item.url.startsWith("http") || item.url.startsWith("/")) return;
+                item.url = window.location.href.replace("index.html", item.url).split('#')[0];
+            });
+
+            // If validatorUrl is not explicitly provided, disable the feature by setting to null
+            if (!configObject.hasOwnProperty("validatorUrl"))
+                configObject.validatorUrl = null
+
+            // If oauth2RedirectUrl isn't specified, use the built-in default
+            if (!configObject.hasOwnProperty("oauth2RedirectUrl"))
+                configObject.oauth2RedirectUrl = window.location.href.replace("index.html", "oauth2-redirect.html").split('#')[0];
+
+            // Apply mandatory parameters
+            configObject.dom_id = "#swagger-ui";
+            configObject.presets = [SwaggerUIBundle.presets.apis, SwaggerUIStandalonePreset];
+            configObject.layout = "StandaloneLayout";
+
+            // Begin Swagger UI call region
+
+            const ui = SwaggerUIBundle(configObject);
+
+            ui.initOAuth(oauthConfigObject);
+
+            // End Swagger UI call region
+
+            window.ui = ui
+        }
+    </script>
+</body>
+</html>
+
+【请求结束时间】:2023-03-22 09:56:55 983
+
+*************************************结束***********************************
+ 
+2023-03-22 09:56:56.1575 | Info | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-22 09:56:56
+【请求开使时间】:2023-03-22 09:56:56 095
+【调用路径】：/swagger/v1/swagger.json
+【请求数据】：
+【返回数据】：{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "GlobalProject.Api",
+    "version": "v1"
+  },
+  "paths": {
+    "/api/Health/checkhealth": {
+      "get": {
+        "tags": [
+          "Health"
+        ],
+        "summary": "健康检查",
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "string"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "securitySchemes": {
+      "Bearer": {
+        "type": "http",
+        "description": "JWT Authorization header using the Bearer scheme.",
+        "scheme": "bearer",
+        "bearerFormat": "JWT"
+      }
+    }
+  },
+  "security": [
+    {
+      "Bearer": [ ]
+    }
+  ]
+}
+【请求结束时间】:2023-03-22 09:56:56 157
+
+*************************************结束***********************************
+ 
+2023-03-22 09:57:02.0772 | Info | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-22 09:57:02
+【请求开使时间】:2023-03-22 09:57:02 022
+【调用路径】：/api/Health/checkhealth
+【请求数据】：
+【返回数据】：ok
+【请求结束时间】:2023-03-22 09:57:02 077
+
+*************************************结束***********************************
+ 
+2023-03-22 09:57:16.2662 | Info | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-22 09:57:16
+【请求开使时间】:2023-03-22 09:57:16 264
+【调用路径】：/api/Health/checkhealth
+【请求数据】：
+【返回数据】：ok
+【请求结束时间】:2023-03-22 09:57:16 266
+
+*************************************结束***********************************
+ 
+2023-03-22 09:57:16.7748 | Info | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-22 09:57:16
+【请求开使时间】:2023-03-22 09:57:16 773
+【调用路径】：/api/Health/checkhealth
+【请求数据】：
+【返回数据】：ok
+【请求结束时间】:2023-03-22 09:57:16 774
+
+*************************************结束***********************************
+ 
+2023-03-22 09:57:16.9478 | Info | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-22 09:57:16
+【请求开使时间】:2023-03-22 09:57:16 945
+【调用路径】：/api/Health/checkhealth
+【请求数据】：
+【返回数据】：ok
+【请求结束时间】:2023-03-22 09:57:16 947
+
+*************************************结束***********************************
+ 
+2023-03-22 09:57:17.0973 | Info | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-22 09:57:17
+【请求开使时间】:2023-03-22 09:57:17 096
+【调用路径】：/api/Health/checkhealth
+【请求数据】：
+【返回数据】：ok
+【请求结束时间】:2023-03-22 09:57:17 097
+
+*************************************结束***********************************
+ 
+2023-03-22 09:57:17.2295 | Info | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-22 09:57:17
+【请求开使时间】:2023-03-22 09:57:17 229
+【调用路径】：/api/Health/checkhealth
+【请求数据】：
+【返回数据】：ok
+【请求结束时间】:2023-03-22 09:57:17 229
+
+*************************************结束***********************************
+ 
+2023-03-22 09:57:17.3650 | Info | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-22 09:57:17
+【请求开使时间】:2023-03-22 09:57:17 363
+【调用路径】：/api/Health/checkhealth
+【请求数据】：
+【返回数据】：ok
+【请求结束时间】:2023-03-22 09:57:17 364
+
+*************************************结束***********************************
+ 
+2023-03-22 11:01:52.4642 | Info | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-22 11:01:52
+【请求开使时间】:2023-03-22 11:01:52 262
+【调用路径】：/swagger/index.html
+【请求数据】：
+【返回数据】：<!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Swagger UI</title>
+    <link rel="stylesheet" type="text/css" href="./swagger-ui.css">
+    <link rel="icon" type="image/png" href="./favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="./favicon-16x16.png" sizes="16x16" />
+    <style>
+
+        html {
+            box-sizing: border-box;
+            overflow: -moz-scrollbars-vertical;
+            overflow-y: scroll;
+        }
+
+        *,
+        *:before,
+        *:after {
+            box-sizing: inherit;
+        }
+
+        body {
+            margin: 0;
+            background: #fafafa;
+        }
+    </style>
+    
+</head>
+
+<body>
+    <div id="swagger-ui"></div>
+
+    <!-- Workaround for https://github.com/swagger-api/swagger-editor/issues/1371 -->
+    <script>
+        if (window.navigator.userAgent.indexOf("Edge") > -1) {
+            console.log("Removing native Edge fetch in favor of swagger-ui's polyfill")
+            window.fetch = undefined;
+        }
+    </script>
+
+    <script src="./swagger-ui-bundle.js"></script>
+    <script src="./swagger-ui-standalone-preset.js"></script>
+    <script>
+        window.onload = function () {
+            var configObject = JSON.parse('{"urls":[{"url":"/swagger/v1/swagger.json","name":"GlobalProject.Api v1"}],"deepLinking":false,"displayOperationId":false,"defaultModelsExpandDepth":1,"defaultModelExpandDepth":1,"defaultModelRendering":"example","displayRequestDuration":false,"docExpansion":"list","showExtensions":false,"showCommonExtensions":false,"supportedSubmitMethods":["get","put","post","delete","options","head","patch","trace"]}');
+            var oauthConfigObject = JSON.parse('{"scopeSeparator":" ","useBasicAuthenticationWithAccessCodeGrant":false,"usePkceWithAuthorizationCodeGrant":false}');
+
+            // Workaround for https://github.com/swagger-api/swagger-ui/issues/5945
+            configObject.urls.forEach(function (item) {
+                if (item.url.startsWith("http") || item.url.startsWith("/")) return;
+                item.url = window.location.href.replace("index.html", item.url).split('#')[0];
+            });
+
+            // If validatorUrl is not explicitly provided, disable the feature by setting to null
+            if (!configObject.hasOwnProperty("validatorUrl"))
+                configObject.validatorUrl = null
+
+            // If oauth2RedirectUrl isn't specified, use the built-in default
+            if (!configObject.hasOwnProperty("oauth2RedirectUrl"))
+                configObject.oauth2RedirectUrl = window.location.href.replace("index.html", "oauth2-redirect.html").split('#')[0];
+
+            // Apply mandatory parameters
+            configObject.dom_id = "#swagger-ui";
+            configObject.presets = [SwaggerUIBundle.presets.apis, SwaggerUIStandalonePreset];
+            configObject.layout = "StandaloneLayout";
+
+            // Begin Swagger UI call region
+
+            const ui = SwaggerUIBundle(configObject);
+
+            ui.initOAuth(oauthConfigObject);
+
+            // End Swagger UI call region
+
+            window.ui = ui
+        }
+    </script>
+</body>
+</html>
+
+【请求结束时间】:2023-03-22 11:01:52 462
+
+*************************************结束***********************************
+ 
+2023-03-22 11:01:52.6820 | Info | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-22 11:01:52
+【请求开使时间】:2023-03-22 11:01:52 593
+【调用路径】：/swagger/v1/swagger.json
+【请求数据】：
+【返回数据】：{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "GlobalProject.Api",
+    "version": "v1"
+  },
+  "paths": {
+    "/api/Health/checkhealth": {
+      "get": {
+        "tags": [
+          "Health"
+        ],
+        "summary": "健康检查",
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "string"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Redis": {
+      "post": {
+        "tags": [
+          "Redis"
+        ],
+        "summary": "设置缓存",
+        "parameters": [
+          {
+            "name": "value",
+            "in": "query",
+            "description": "",
+            "schema": {
+              "type": "string",
+              "description": "",
+              "nullable": true
+            }
+          }
+        ],
+        "requestBody": {
+          "description": "",
+          "content": {
+            "application/json-patch+json": {
+              "schema": {
+                "type": "string",
+                "description": "",
+                "nullable": true
+              }
+            },
+            "application/json": {
+              "schema": {
+                "type": "string",
+                "description": "",
+                "nullable": true
+              }
+            },
+            "text/json": {
+              "schema": {
+                "type": "string",
+                "description": "",
+                "nullable": true
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "type": "string",
+                "description": "",
+                "nullable": true
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "securitySchemes": {
+      "Bearer": {
+        "type": "http",
+        "description": "JWT Authorization header using the Bearer scheme.",
+        "scheme": "bearer",
+        "bearerFormat": "JWT"
+      }
+    }
+  },
+  "security": [
+    {
+      "Bearer": [ ]
+    }
+  ]
+}
+【请求结束时间】:2023-03-22 11:01:52 681
+
+*************************************结束***********************************
+ 
+2023-03-22 11:02:57.0686 | Info | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-22 11:02:57
+【请求开使时间】:2023-03-22 11:02:56 890
+【调用路径】：/swagger/index.html
+【请求数据】：
+【返回数据】：<!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Swagger UI</title>
+    <link rel="stylesheet" type="text/css" href="./swagger-ui.css">
+    <link rel="icon" type="image/png" href="./favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="./favicon-16x16.png" sizes="16x16" />
+    <style>
+
+        html {
+            box-sizing: border-box;
+            overflow: -moz-scrollbars-vertical;
+            overflow-y: scroll;
+        }
+
+        *,
+        *:before,
+        *:after {
+            box-sizing: inherit;
+        }
+
+        body {
+            margin: 0;
+            background: #fafafa;
+        }
+    </style>
+    
+</head>
+
+<body>
+    <div id="swagger-ui"></div>
+
+    <!-- Workaround for https://github.com/swagger-api/swagger-editor/issues/1371 -->
+    <script>
+        if (window.navigator.userAgent.indexOf("Edge") > -1) {
+            console.log("Removing native Edge fetch in favor of swagger-ui's polyfill")
+            window.fetch = undefined;
+        }
+    </script>
+
+    <script src="./swagger-ui-bundle.js"></script>
+    <script src="./swagger-ui-standalone-preset.js"></script>
+    <script>
+        window.onload = function () {
+            var configObject = JSON.parse('{"urls":[{"url":"/swagger/v1/swagger.json","name":"GlobalProject.Api v1"}],"deepLinking":false,"displayOperationId":false,"defaultModelsExpandDepth":1,"defaultModelExpandDepth":1,"defaultModelRendering":"example","displayRequestDuration":false,"docExpansion":"list","showExtensions":false,"showCommonExtensions":false,"supportedSubmitMethods":["get","put","post","delete","options","head","patch","trace"]}');
+            var oauthConfigObject = JSON.parse('{"scopeSeparator":" ","useBasicAuthenticationWithAccessCodeGrant":false,"usePkceWithAuthorizationCodeGrant":false}');
+
+            // Workaround for https://github.com/swagger-api/swagger-ui/issues/5945
+            configObject.urls.forEach(function (item) {
+                if (item.url.startsWith("http") || item.url.startsWith("/")) return;
+                item.url = window.location.href.replace("index.html", item.url).split('#')[0];
+            });
+
+            // If validatorUrl is not explicitly provided, disable the feature by setting to null
+            if (!configObject.hasOwnProperty("validatorUrl"))
+                configObject.validatorUrl = null
+
+            // If oauth2RedirectUrl isn't specified, use the built-in default
+            if (!configObject.hasOwnProperty("oauth2RedirectUrl"))
+                configObject.oauth2RedirectUrl = window.location.href.replace("index.html", "oauth2-redirect.html").split('#')[0];
+
+            // Apply mandatory parameters
+            configObject.dom_id = "#swagger-ui";
+            configObject.presets = [SwaggerUIBundle.presets.apis, SwaggerUIStandalonePreset];
+            configObject.layout = "StandaloneLayout";
+
+            // Begin Swagger UI call region
+
+            const ui = SwaggerUIBundle(configObject);
+
+            ui.initOAuth(oauthConfigObject);
+
+            // End Swagger UI call region
+
+            window.ui = ui
+        }
+    </script>
+</body>
+</html>
+
+【请求结束时间】:2023-03-22 11:02:57 067
+
+*************************************结束***********************************
+ 
+2023-03-22 11:02:57.2442 | Info | 
+*************************************开始***********************************
+
+【记录时间】：2023-03-22 11:02:57
+【请求开使时间】:2023-03-22 11:02:57 172
+【调用路径】：/swagger/v1/swagger.json
+【请求数据】：
+【返回数据】：{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "GlobalProject.Api",
+    "version": "v1"
+  },
+  "paths": {
+    "/api/Health/checkhealth": {
+      "get": {
+        "tags": [
+          "Health"
+        ],
+        "summary": "健康检查",
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "string"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Redis": {
+      "post": {
+        "tags": [
+          "Redis"
+        ],
+        "summary": "设置缓存",
+        "requestBody": {
+          "description": "",
+          "content": {
+            "application/json-patch+json": {
+              "schema": {
+                "type": "string",
+                "description": "",
+                "nullable": true
+              }
+            },
+            "application/json": {
+              "schema": {
+                "type": "string",
+                "description": "",
+                "nullable": true
+              }
+            },
+            "text/json": {
+              "schema": {
+                "type": "string",
+                "description": "",
+                "nullable": true
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "type": "string",
+                "description": "",
+                "nullable": true
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "securitySchemes": {
+      "Bearer": {
+        "type": "http",
+        "description": "JWT Authorization header using the Bearer scheme.",
+        "scheme": "bearer",
+        "bearerFormat": "JWT"
+      }
+    }
+  },
+  "security": [
+    {
+      "Bearer": [ ]
+    }
+  ]
+}
+【请求结束时间】:2023-03-22 11:02:57 244
+
+*************************************结束***********************************
+ 

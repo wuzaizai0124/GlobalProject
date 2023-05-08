@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GlobalProject.Api</name>
+    </assembly>
+    <members>
+        <member name="T:GlobalProject.Api.Controllers.HealthController">
+            <summary>
+            健康检查
+            </summary>
+        </member>
+        <member name="M:GlobalProject.Api.Controllers.HealthController.CheckHealth">
+            <summary>
+            健康检查
+            </summary>        
+            <returns></returns>
+        </member>
+        <member name="T:GlobalProject.Api.Controllers.RedisController">
+            <summary>
+            redis缓存    
+            </summary>
+        </member>
+        <member name="M:GlobalProject.Api.Controllers.RedisController.SetKey(System.String)">
+            <summary>
+            设置缓存
+            </summary>
+            <param name="key"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:GlobalProject.Api.Middleware.MiddlewareExtension.UseGolobalException(Microsoft.AspNetCore.Builder.IApplicationBuilder)">
+            <summary>
+            自定义全局错误捕获
+            </summary>
+            <param name="app"></param>
+        </member>
+    </members>
+</doc>

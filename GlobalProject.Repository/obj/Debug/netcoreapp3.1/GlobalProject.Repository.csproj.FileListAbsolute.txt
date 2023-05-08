@@ -1,0 +1,16 @@
+D:\BaiduNetdiskDownload\Global\GlobalProject\GlobalProject.Repository\bin\Debug\netcoreapp3.1\GlobalProject.Repository.deps.json
+D:\BaiduNetdiskDownload\Global\GlobalProject\GlobalProject.Repository\bin\Debug\netcoreapp3.1\GlobalProject.Repository.dll
+D:\BaiduNetdiskDownload\Global\GlobalProject\GlobalProject.Repository\bin\Debug\netcoreapp3.1\GlobalProject.Repository.pdb
+D:\BaiduNetdiskDownload\Global\GlobalProject\GlobalProject.Repository\obj\Debug\netcoreapp3.1\GlobalProject.Repository.csproj.AssemblyReference.cache
+D:\BaiduNetdiskDownload\Global\GlobalProject\GlobalProject.Repository\obj\Debug\netcoreapp3.1\GlobalProject.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaiduNetdiskDownload\Global\GlobalProject\GlobalProject.Repository\obj\Debug\netcoreapp3.1\GlobalProject.Repository.AssemblyInfoInputs.cache
+D:\BaiduNetdiskDownload\Global\GlobalProject\GlobalProject.Repository\obj\Debug\netcoreapp3.1\GlobalProject.Repository.AssemblyInfo.cs
+D:\BaiduNetdiskDownload\Global\GlobalProject\GlobalProject.Repository\obj\Debug\netcoreapp3.1\GlobalProject.Repository.csproj.CoreCompileInputs.cache
+D:\BaiduNetdiskDownload\Global\GlobalProject\GlobalProject.Repository\obj\Debug\netcoreapp3.1\GlobalProject.Repository.dll
+D:\BaiduNetdiskDownload\Global\GlobalProject\GlobalProject.Repository\obj\Debug\netcoreapp3.1\GlobalProject.Repository.pdb
+D:\BaiduNetdiskDownload\Global\GlobalProject\GlobalProject.Repository\bin\Debug\netcoreapp3.1\GlobalProject.Infrastructure.dll
+D:\BaiduNetdiskDownload\Global\GlobalProject\GlobalProject.Repository\bin\Debug\netcoreapp3.1\GlobalProject.Model.dll
+D:\BaiduNetdiskDownload\Global\GlobalProject\GlobalProject.Repository\bin\Debug\netcoreapp3.1\GlobalProject.Infrastructure.pdb
+D:\BaiduNetdiskDownload\Global\GlobalProject\GlobalProject.Repository\bin\Debug\netcoreapp3.1\GlobalProject.Model.pdb
+D:\BaiduNetdiskDownload\Global\GlobalProject\GlobalProject.Repository\obj\Debug\netcoreapp3.1\GlobalProject.Repository.csproj.CopyComplete
+D:\BaiduNetdiskDownload\Global\GlobalProject\GlobalProject.Repository\bin\Debug\netcoreapp3.1\GlobalProject.Model.xml
