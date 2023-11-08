@@ -57,8 +57,8 @@ namespace GlobalProject.Api
                 //设置本地时间而非UTC时间
                 options.SerializerSettings.DateTimeZoneHandling = DateTimeZoneHandling.Local;
             }).AddJsonOptions(options => options.JsonSerializerOptions.PropertyNamingPolicy = null); ;
-            //services.AddSkyApmExtensions();
-            services.AddSkyAPM(ext => ext.AddAspNetCoreHosting());            
+            services.AddSkyApmExtensions();
+            //services.AddSkyAPM(ext => ext.AddAspNetCoreHosting());            
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
             services.AddSwaggerGen(c =>
             {

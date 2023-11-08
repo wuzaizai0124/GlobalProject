@@ -26,7 +26,7 @@ namespace GlobalProject.Api.Controllers
             var TraceId = segContext.Context.TraceId;
             segContext.Context.Span.AddLog(LogEvent.Message($"SkywalkingTest1---Worker running at: {DateTime.Now}"));
             //segContext.Context.Span.AddLog(LogEvent.Message($"SkywalkingTest1---Worker running at--end: {DateTime.Now}"));
-            return TraceId;
+            return TraceId.ToString();
         }
     }
 }

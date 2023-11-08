@@ -1,0 +1,10 @@
+/GlobalProject.Api/bin
+/GlobalProject.Api/obj
+/GlobalProject.Infrastructure/obj
+/GlobalProject.Infrastructure/bin
+/GlobalProject.Model/obj
+/GlobalProject.Model/bin
+/GlobalProject.Repository/obj
+/GlobalProject.Repository/bin
+/GlobalProject.Services/bin
+/GlobalProject.Services/obj

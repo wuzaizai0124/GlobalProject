@@ -1,0 +1,298 @@
+2023-05-08 17:39:37.644 +08:00 [GlobalProjectApi] [Information] SkyApm.InstrumentStartup : Initializing ...
+2023-05-08 17:39:37.670 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.RegisterService : Loaded instrument service [SkyApm.Service.RegisterService].
+2023-05-08 17:39:37.671 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Loaded instrument service [SkyApm.Service.PingService].
+2023-05-08 17:39:37.671 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.ServiceDiscoveryV5Service : Loaded instrument service [SkyApm.Service.ServiceDiscoveryV5Service].
+2023-05-08 17:39:37.671 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.SegmentReportService : Loaded instrument service [SkyApm.Service.SegmentReportService].
+2023-05-08 17:39:37.683 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Loaded instrument service [SkyApm.Service.CLRStatsService].
+2023-05-08 17:39:37.683 +08:00 [GlobalProjectApi] [Information] SkyApm.Sampling.SimpleCountSamplingInterceptor : Loaded instrument service [SkyApm.Sampling.SimpleCountSamplingInterceptor].
+2023-05-08 17:39:37.683 +08:00 [GlobalProjectApi] [Information] SkyApm.Transport.Grpc.V6.ConnectService : Loaded instrument service [SkyApm.Transport.Grpc.V6.ConnectService].
+2023-05-08 17:39:37.715 +08:00 [GlobalProjectApi] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [Microsoft.AspNetCore].
+2023-05-08 17:39:37.715 +08:00 [GlobalProjectApi] [Information] SkyApm.InstrumentStartup : Started SkyAPM .NET Core Agent.
+2023-05-08 17:39:37.746 +08:00 [GlobalProjectApi] [Information] SkyApm.Transport.Grpc.ConnectionManager : Connected server[localhost:11800].
+2023-05-08 17:39:38.810 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.RegisterService : Registered Service[Id=8].
+2023-05-08 17:39:40.185 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.RegisterService : Registered ServiceInstance[Id=8].
+2023-05-08 17:39:50.395 +08:00 [GlobalProjectApi] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [HttpHandlerDiagnosticListener].
+2023-05-08 17:39:53.147 +08:00 [GlobalProjectApi] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 5 trace segment. cost: 00:00:00.4626837s
+2023-05-08 17:40:07.681 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 9:40:07 +00:00
+2023-05-08 17:40:07.698 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 14M ThreadPool 32765 32767 1000 1000
+2023-05-08 17:40:10.824 +08:00 [GlobalProjectApi] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.1455268s
+2023-05-08 17:40:37.687 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0.046875 GenCollectCount 0 0 0 16M ThreadPool 32762 32767 1000 1000
+2023-05-08 17:40:37.689 +08:00 [GlobalProjectApi] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 4 trace segment. cost: 00:00:00.0053360s
+2023-05-08 17:41:07.673 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 9:41:07 +00:00
+2023-05-08 17:41:07.689 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 16M ThreadPool 32765 32767 1000 1000
+2023-05-08 17:41:37.686 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 16M ThreadPool 32763 32767 1000 1000
+2023-05-08 17:42:07.682 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 9:42:07 +00:00
+2023-05-08 17:42:07.697 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 16M ThreadPool 32765 32767 1000 1000
+2023-05-08 17:42:37.687 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0.03125 GenCollectCount 0 0 0 17M ThreadPool 32764 32767 1000 1000
+2023-05-08 17:43:07.688 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 9:43:07 +00:00
+2023-05-08 17:43:07.689 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 17M ThreadPool 32762 32767 1000 1000
+2023-05-08 17:43:34.849 +08:00 [GlobalProjectApi] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.1728421s
+2023-05-08 17:43:37.685 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 18M ThreadPool 32760 32767 1000 1000
+2023-05-08 17:44:07.686 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 18M ThreadPool 32759 32767 1000 1000
+2023-05-08 17:44:07.686 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 9:44:07 +00:00
+2023-05-08 17:44:37.695 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 18M ThreadPool 32766 32767 1000 1000
+2023-05-08 17:45:07.691 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 9:45:07 +00:00
+2023-05-08 17:45:07.691 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 19M ThreadPool 32759 32767 1000 1000
+2023-05-08 17:45:37.688 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 19M ThreadPool 32766 32767 1000 1000
+2023-05-08 17:46:07.683 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 9:46:07 +00:00
+2023-05-08 17:46:07.698 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 19M ThreadPool 32763 32767 1000 1000
+2023-05-08 17:46:37.694 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 20M ThreadPool 32765 32767 1000 1000
+2023-05-08 17:47:07.674 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 9:47:07 +00:00
+2023-05-08 17:47:07.690 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 20M ThreadPool 32766 32767 1000 1000
+2023-05-08 17:47:37.690 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 20M ThreadPool 32764 32767 1000 1000
+2023-05-08 17:48:07.685 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 9:48:07 +00:00
+2023-05-08 17:48:07.685 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 20M ThreadPool 32759 32767 1000 1000
+2023-05-08 17:48:37.697 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 21M ThreadPool 32766 32767 1000 1000
+2023-05-08 17:49:07.673 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 9:49:07 +00:00
+2023-05-08 17:49:07.689 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 21M ThreadPool 32766 32767 1000 1000
+2023-05-08 17:49:37.699 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 21M ThreadPool 32766 32767 1000 1000
+2023-05-08 17:50:07.686 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 22M ThreadPool 32761 32767 1000 1000
+2023-05-08 17:50:07.686 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 9:50:07 +00:00
+2023-05-08 17:50:37.690 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 22M ThreadPool 32766 32767 1000 1000
+2023-05-08 17:51:07.677 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 9:51:07 +00:00
+2023-05-08 17:51:07.692 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 22M ThreadPool 32766 32767 1000 1000
+2023-05-08 17:51:37.695 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 22M ThreadPool 32763 32767 1000 1000
+2023-05-08 17:52:07.676 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 9:52:07 +00:00
+2023-05-08 17:52:07.691 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 23M ThreadPool 32763 32767 1000 1000
+2023-05-08 17:52:37.696 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 23M ThreadPool 32766 32767 1000 1000
+2023-05-08 17:53:07.689 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 23M ThreadPool 32759 32767 1000 1000
+2023-05-08 17:53:07.689 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 9:53:07 +00:00
+2023-05-08 17:53:37.693 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 24M ThreadPool 32764 32767 1000 1000
+2023-05-08 17:54:07.680 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 9:54:07 +00:00
+2023-05-08 17:54:07.695 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 24M ThreadPool 32766 32767 1000 1000
+2023-05-08 17:54:37.686 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 24M ThreadPool 32759 32767 1000 1000
+2023-05-08 17:55:07.689 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 24M ThreadPool 32759 32767 1000 1000
+2023-05-08 17:55:07.689 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 9:55:07 +00:00
+2023-05-08 17:55:37.699 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 25M ThreadPool 32765 32767 1000 1000
+2023-05-08 17:55:55.877 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.RegisterService : Stopped instrument service RegisterService.
+2023-05-08 17:55:55.877 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Stopped instrument service PingService.
+2023-05-08 17:55:55.877 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.ServiceDiscoveryV5Service : Stopped instrument service ServiceDiscoveryV5Service.
+2023-05-08 17:55:55.877 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.SegmentReportService : Stopped instrument service SegmentReportService.
+2023-05-08 17:55:55.877 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Stopped instrument service CLRStatsService.
+2023-05-08 17:55:55.877 +08:00 [GlobalProjectApi] [Information] SkyApm.Sampling.SimpleCountSamplingInterceptor : Stopped instrument service SimpleCountSamplingInterceptor.
+2023-05-08 17:55:55.877 +08:00 [GlobalProjectApi] [Information] SkyApm.Transport.Grpc.V6.ConnectService : Stopped instrument service ConnectService.
+2023-05-08 17:55:55.877 +08:00 [GlobalProjectApi] [Information] SkyApm.InstrumentStartup : Stopped SkyAPM .NET Core Agent.
+2023-05-08 17:56:47.250 +08:00 [GlobalProjectApi] [Information] SkyApm.InstrumentStartup : Initializing ...
+2023-05-08 17:56:47.276 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.RegisterService : Loaded instrument service [SkyApm.Service.RegisterService].
+2023-05-08 17:56:47.276 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Loaded instrument service [SkyApm.Service.PingService].
+2023-05-08 17:56:47.277 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.ServiceDiscoveryV5Service : Loaded instrument service [SkyApm.Service.ServiceDiscoveryV5Service].
+2023-05-08 17:56:47.277 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.SegmentReportService : Loaded instrument service [SkyApm.Service.SegmentReportService].
+2023-05-08 17:56:47.277 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Loaded instrument service [SkyApm.Service.CLRStatsService].
+2023-05-08 17:56:47.277 +08:00 [GlobalProjectApi] [Information] SkyApm.Sampling.SimpleCountSamplingInterceptor : Loaded instrument service [SkyApm.Sampling.SimpleCountSamplingInterceptor].
+2023-05-08 17:56:47.277 +08:00 [GlobalProjectApi] [Information] SkyApm.Transport.Grpc.V6.ConnectService : Loaded instrument service [SkyApm.Transport.Grpc.V6.ConnectService].
+2023-05-08 17:56:47.303 +08:00 [GlobalProjectApi] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [Microsoft.AspNetCore].
+2023-05-08 17:56:47.303 +08:00 [GlobalProjectApi] [Information] SkyApm.InstrumentStartup : Started SkyAPM .NET Core Agent.
+2023-05-08 17:56:47.342 +08:00 [GlobalProjectApi] [Information] SkyApm.Transport.Grpc.ConnectionManager : Connected server[localhost:11800].
+2023-05-08 17:56:47.834 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.RegisterService : Registered Service[Id=8].
+2023-05-08 17:56:48.403 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.RegisterService : Registered ServiceInstance[Id=10].
+2023-05-08 17:56:56.548 +08:00 [GlobalProjectApi] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [HttpHandlerDiagnosticListener].
+2023-05-08 17:56:59.334 +08:00 [GlobalProjectApi] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 5 trace segment. cost: 00:00:00.0402537s
+2023-05-08 17:57:05.285 +08:00 [GlobalProjectApi] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0043676s
+2023-05-08 17:57:17.287 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 9:57:17 +00:00
+2023-05-08 17:57:17.288 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 15M ThreadPool 32764 32767 1000 1000
+2023-05-08 17:57:47.294 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 15M ThreadPool 32765 32767 1000 1000
+2023-05-08 17:58:17.283 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 16M ThreadPool 32754 32767 1000 1000
+2023-05-08 17:58:17.283 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 9:58:17 +00:00
+2023-05-08 17:58:47.282 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 16M ThreadPool 32762 32767 1000 1000
+2023-05-08 17:59:15.376 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.RegisterService : Stopped instrument service RegisterService.
+2023-05-08 17:59:15.376 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Stopped instrument service PingService.
+2023-05-08 17:59:15.376 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.ServiceDiscoveryV5Service : Stopped instrument service ServiceDiscoveryV5Service.
+2023-05-08 17:59:15.376 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.SegmentReportService : Stopped instrument service SegmentReportService.
+2023-05-08 17:59:15.377 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Stopped instrument service CLRStatsService.
+2023-05-08 17:59:15.377 +08:00 [GlobalProjectApi] [Information] SkyApm.Sampling.SimpleCountSamplingInterceptor : Stopped instrument service SimpleCountSamplingInterceptor.
+2023-05-08 17:59:15.377 +08:00 [GlobalProjectApi] [Information] SkyApm.Transport.Grpc.V6.ConnectService : Stopped instrument service ConnectService.
+2023-05-08 17:59:15.377 +08:00 [GlobalProjectApi] [Information] SkyApm.InstrumentStartup : Stopped SkyAPM .NET Core Agent.
+2023-05-08 17:59:51.791 +08:00 [GlobalProjectApi] [Information] SkyApm.InstrumentStartup : Initializing ...
+2023-05-08 17:59:51.844 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.RegisterService : Loaded instrument service [SkyApm.Service.RegisterService].
+2023-05-08 17:59:51.853 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Loaded instrument service [SkyApm.Service.PingService].
+2023-05-08 17:59:51.853 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.ServiceDiscoveryV5Service : Loaded instrument service [SkyApm.Service.ServiceDiscoveryV5Service].
+2023-05-08 17:59:51.860 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.SegmentReportService : Loaded instrument service [SkyApm.Service.SegmentReportService].
+2023-05-08 17:59:51.861 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Loaded instrument service [SkyApm.Service.CLRStatsService].
+2023-05-08 17:59:51.861 +08:00 [GlobalProjectApi] [Information] SkyApm.Sampling.SimpleCountSamplingInterceptor : Loaded instrument service [SkyApm.Sampling.SimpleCountSamplingInterceptor].
+2023-05-08 17:59:51.861 +08:00 [GlobalProjectApi] [Information] SkyApm.Transport.Grpc.V6.ConnectService : Loaded instrument service [SkyApm.Transport.Grpc.V6.ConnectService].
+2023-05-08 17:59:51.954 +08:00 [GlobalProjectApi] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [Microsoft.AspNetCore].
+2023-05-08 17:59:51.954 +08:00 [GlobalProjectApi] [Information] SkyApm.InstrumentStartup : Started SkyAPM .NET Core Agent.
+2023-05-08 17:59:52.082 +08:00 [GlobalProjectApi] [Information] SkyApm.Transport.Grpc.ConnectionManager : Connected server[localhost:11800].
+2023-05-08 17:59:52.513 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.RegisterService : Registered Service[Id=8].
+2023-05-08 17:59:55.785 +08:00 [GlobalProjectApi] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [HttpHandlerDiagnosticListener].
+2023-05-08 18:00:21.878 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.RegisterService : Registered ServiceInstance[Id=11].
+2023-05-08 18:00:45.908 +08:00 [GlobalProjectApi] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0371691s
+2023-05-08 18:00:51.883 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 16M ThreadPool 32765 32767 1000 1000
+2023-05-08 18:01:21.869 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0.015625 GenCollectCount 0 0 0 17M ThreadPool 32763 32767 1000 1000
+2023-05-08 18:01:21.876 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 10:01:21 +00:00
+2023-05-08 18:01:51.885 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 17M ThreadPool 32762 32767 1000 1000
+2023-05-08 18:02:21.861 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 10:02:21 +00:00
+2023-05-08 18:02:21.876 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 17M ThreadPool 32766 32767 1000 1000
+2023-05-08 18:02:51.873 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 1 1 0 7M ThreadPool 32762 32767 1000 1000
+2023-05-08 18:03:21.855 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 10:03:21 +00:00
+2023-05-08 18:03:21.870 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 7M ThreadPool 32761 32767 1000 1000
+2023-05-08 18:03:51.876 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 7M ThreadPool 32761 32767 1000 1000
+2023-05-08 18:04:21.867 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 10:04:21 +00:00
+2023-05-08 18:04:21.867 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 7M ThreadPool 32759 32767 1000 1000
+2023-05-08 18:04:51.871 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 8M ThreadPool 32759 32767 1000 1000
+2023-05-08 18:05:21.908 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 8M ThreadPool 32757 32767 1000 1000
+2023-05-08 18:05:21.921 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 10:05:21 +00:00
+2023-05-08 18:10:17.445 +08:00 [GlobalProjectApi] [Information] SkyApm.InstrumentStartup : Initializing ...
+2023-05-08 18:10:17.478 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.RegisterService : Loaded instrument service [SkyApm.Service.RegisterService].
+2023-05-08 18:10:17.478 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Loaded instrument service [SkyApm.Service.PingService].
+2023-05-08 18:10:17.478 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.ServiceDiscoveryV5Service : Loaded instrument service [SkyApm.Service.ServiceDiscoveryV5Service].
+2023-05-08 18:10:17.478 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.SegmentReportService : Loaded instrument service [SkyApm.Service.SegmentReportService].
+2023-05-08 18:10:17.478 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Loaded instrument service [SkyApm.Service.CLRStatsService].
+2023-05-08 18:10:17.478 +08:00 [GlobalProjectApi] [Information] SkyApm.Sampling.SimpleCountSamplingInterceptor : Loaded instrument service [SkyApm.Sampling.SimpleCountSamplingInterceptor].
+2023-05-08 18:10:17.479 +08:00 [GlobalProjectApi] [Information] SkyApm.Transport.Grpc.V6.ConnectService : Loaded instrument service [SkyApm.Transport.Grpc.V6.ConnectService].
+2023-05-08 18:10:17.508 +08:00 [GlobalProjectApi] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [Microsoft.AspNetCore].
+2023-05-08 18:10:17.508 +08:00 [GlobalProjectApi] [Information] SkyApm.InstrumentStartup : Started SkyAPM .NET Core Agent.
+2023-05-08 18:10:17.554 +08:00 [GlobalProjectApi] [Information] SkyApm.Transport.Grpc.ConnectionManager : Connected server[localhost:11800].
+2023-05-08 18:10:18.035 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.RegisterService : Registered Service[Id=8].
+2023-05-08 18:10:18.610 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.RegisterService : Registered ServiceInstance[Id=12].
+2023-05-08 18:10:26.082 +08:00 [GlobalProjectApi] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [HttpHandlerDiagnosticListener].
+2023-05-08 18:10:26.522 +08:00 [GlobalProjectApi] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 5 trace segment. cost: 00:00:00.0400895s
+2023-05-08 18:10:35.486 +08:00 [GlobalProjectApi] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 4 trace segment. cost: 00:00:00.0048457s
+2023-05-08 18:10:47.509 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 10:10:47 +00:00
+2023-05-08 18:10:47.510 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 15M ThreadPool 32764 32767 1000 1000
+2023-05-08 18:11:17.493 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 16M ThreadPool 32760 32767 1000 1000
+2023-05-08 18:11:47.486 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 16M ThreadPool 32759 32767 1000 1000
+2023-05-08 18:11:47.486 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 10:11:47 +00:00
+2023-05-08 18:12:17.486 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 16M ThreadPool 32762 32767 1000 1000
+2023-05-08 18:12:47.490 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 10:12:47 +00:00
+2023-05-08 18:12:47.491 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 1 1 0 6M ThreadPool 32759 32767 1000 1000
+2023-05-08 18:13:17.492 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 7M ThreadPool 32763 32767 1000 1000
+2023-05-08 18:13:47.486 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 10:13:47 +00:00
+2023-05-08 18:13:47.486 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 7M ThreadPool 32761 32767 1000 1000
+2023-05-08 18:14:17.482 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 7M ThreadPool 32763 32767 1000 1000
+2023-05-08 18:14:47.496 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 7M ThreadPool 32761 32767 1000 1000
+2023-05-08 18:14:47.496 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 10:14:47 +00:00
+2023-05-08 18:15:17.486 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 8M ThreadPool 32763 32767 1000 1000
+2023-05-08 18:15:47.483 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 8M ThreadPool 32760 32767 1000 1000
+2023-05-08 18:15:47.483 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 10:15:47 +00:00
+2023-05-08 18:16:17.486 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 8M ThreadPool 32762 32767 1000 1000
+2023-05-08 18:16:47.505 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 9M ThreadPool 32762 32767 1000 1000
+2023-05-08 18:16:47.507 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 10:16:47 +00:00
+2023-05-08 18:17:17.491 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 9M ThreadPool 32763 32767 1000 1000
+2023-05-08 18:17:38.506 +08:00 [GlobalProjectApi] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0051039s
+2023-05-08 18:17:47.481 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 10M ThreadPool 32759 32767 1000 1000
+2023-05-08 18:17:47.481 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 10:17:47 +00:00
+2023-05-08 18:17:56.485 +08:00 [GlobalProjectApi] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 2 trace segment. cost: 00:00:00.0048023s
+2023-05-08 18:18:17.493 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 10M ThreadPool 32756 32767 1000 1000
+2023-05-08 18:18:47.504 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 10M ThreadPool 32757 32767 1000 1000
+2023-05-08 18:18:47.505 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 10:18:47 +00:00
+2023-05-08 18:19:17.494 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 11M ThreadPool 32756 32767 1000 1000
+2023-05-08 18:19:47.503 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 10:19:47 +00:00
+2023-05-08 18:19:47.504 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 11M ThreadPool 32762 32767 1000 1000
+2023-05-08 18:20:17.503 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 11M ThreadPool 32759 32767 1000 1000
+2023-05-08 18:20:47.492 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 12M ThreadPool 32759 32767 1000 1000
+2023-05-08 18:20:47.492 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 10:20:47 +00:00
+2023-05-08 18:21:17.493 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 12M ThreadPool 32758 32767 1000 1000
+2023-05-08 18:21:47.492 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 12M ThreadPool 32759 32767 1000 1000
+2023-05-08 18:21:47.492 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 10:21:47 +00:00
+2023-05-08 18:22:17.492 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 12M ThreadPool 32761 32767 1000 1000
+2023-05-08 18:22:47.490 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 13M ThreadPool 32760 32767 1000 1000
+2023-05-08 18:22:47.490 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 10:22:47 +00:00
+2023-05-08 18:23:17.494 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 13M ThreadPool 32763 32767 1000 1000
+2023-05-08 18:23:47.490 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 10:23:47 +00:00
+2023-05-08 18:23:47.491 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0.015625 GenCollectCount 0 0 0 13M ThreadPool 32759 32767 1000 1000
+2023-05-08 18:24:17.484 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 14M ThreadPool 32763 32767 1000 1000
+2023-05-08 18:24:47.484 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 10:24:47 +00:00
+2023-05-08 18:24:47.484 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 14M ThreadPool 32759 32767 1000 1000
+2023-05-08 18:25:17.494 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 14M ThreadPool 32760 32767 1000 1000
+2023-05-08 18:25:47.484 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 14M ThreadPool 32761 32767 1000 1000
+2023-05-08 18:25:47.484 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 10:25:47 +00:00
+2023-05-08 18:26:17.493 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 15M ThreadPool 32760 32767 1000 1000
+2023-05-08 18:26:47.495 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 15M ThreadPool 32759 32767 1000 1000
+2023-05-08 18:26:47.495 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 10:26:47 +00:00
+2023-05-08 18:27:17.491 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 15M ThreadPool 32757 32767 1000 1000
+2023-05-08 18:27:47.489 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0.015625 GenCollectCount 0 0 0 16M ThreadPool 32757 32767 1000 1000
+2023-05-08 18:27:47.489 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 10:27:47 +00:00
+2023-05-08 18:28:17.494 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 16M ThreadPool 32759 32767 1000 1000
+2023-05-08 18:28:47.485 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 16M ThreadPool 32762 32767 1000 1000
+2023-05-08 18:28:47.485 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 10:28:47 +00:00
+2023-05-08 18:29:17.484 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 16M ThreadPool 32762 32767 1000 1000
+2023-05-08 18:29:47.491 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 17M ThreadPool 32762 32767 1000 1000
+2023-05-08 18:29:47.491 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 10:29:47 +00:00
+2023-05-08 18:30:17.493 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 17M ThreadPool 32757 32767 1000 1000
+2023-05-08 18:30:47.488 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 17M ThreadPool 32760 32767 1000 1000
+2023-05-08 18:30:47.488 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 10:30:47 +00:00
+2023-05-08 18:31:17.480 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 17M ThreadPool 32758 32767 1000 1000
+2023-05-08 18:31:47.481 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 18M ThreadPool 32758 32767 1000 1000
+2023-05-08 18:31:47.481 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 10:31:47 +00:00
+2023-05-08 18:32:17.494 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 18M ThreadPool 32759 32767 1000 1000
+2023-05-08 18:32:47.487 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 18M ThreadPool 32758 32767 1000 1000
+2023-05-08 18:32:47.489 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 10:32:47 +00:00
+2023-05-08 18:33:17.483 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 19M ThreadPool 32759 32767 1000 1000
+2023-05-08 18:33:47.494 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 19M ThreadPool 32762 32767 1000 1000
+2023-05-08 18:33:47.495 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 10:33:47 +00:00
+2023-05-08 18:34:17.481 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 19M ThreadPool 32759 32767 1000 1000
+2023-05-08 18:34:47.494 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 19M ThreadPool 32759 32767 1000 1000
+2023-05-08 18:34:47.494 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 10:34:47 +00:00
+2023-05-08 18:35:17.494 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 20M ThreadPool 32758 32767 1000 1000
+2023-05-08 18:35:47.483 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 10:35:47 +00:00
+2023-05-08 18:35:47.483 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 20M ThreadPool 32758 32767 1000 1000
+2023-05-08 18:36:17.495 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 20M ThreadPool 32757 32767 1000 1000
+2023-05-08 18:36:47.484 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 10:36:47 +00:00
+2023-05-08 18:36:47.484 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 21M ThreadPool 32758 32767 1000 1000
+2023-05-08 18:37:17.483 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 21M ThreadPool 32759 32767 1000 1000
+2023-05-08 18:37:47.504 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 21M ThreadPool 32759 32767 1000 1000
+2023-05-08 18:37:47.504 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 10:37:47 +00:00
+2023-05-08 18:38:17.480 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 21M ThreadPool 32759 32767 1000 1000
+2023-05-08 18:38:31.297 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.RegisterService : Stopped instrument service RegisterService.
+2023-05-08 18:38:31.297 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Stopped instrument service PingService.
+2023-05-08 18:38:31.297 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.ServiceDiscoveryV5Service : Stopped instrument service ServiceDiscoveryV5Service.
+2023-05-08 18:38:31.297 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.SegmentReportService : Stopped instrument service SegmentReportService.
+2023-05-08 18:38:31.297 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Stopped instrument service CLRStatsService.
+2023-05-08 18:38:31.297 +08:00 [GlobalProjectApi] [Information] SkyApm.Sampling.SimpleCountSamplingInterceptor : Stopped instrument service SimpleCountSamplingInterceptor.
+2023-05-08 18:38:31.297 +08:00 [GlobalProjectApi] [Information] SkyApm.Transport.Grpc.V6.ConnectService : Stopped instrument service ConnectService.
+2023-05-08 18:38:31.297 +08:00 [GlobalProjectApi] [Information] SkyApm.InstrumentStartup : Stopped SkyAPM .NET Core Agent.
+2023-05-08 18:38:47.656 +08:00 [GlobalProjectApi] [Information] SkyApm.InstrumentStartup : Initializing ...
+2023-05-08 18:38:47.687 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.RegisterService : Loaded instrument service [SkyApm.Service.RegisterService].
+2023-05-08 18:38:47.687 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Loaded instrument service [SkyApm.Service.PingService].
+2023-05-08 18:38:47.687 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.ServiceDiscoveryV5Service : Loaded instrument service [SkyApm.Service.ServiceDiscoveryV5Service].
+2023-05-08 18:38:47.687 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.SegmentReportService : Loaded instrument service [SkyApm.Service.SegmentReportService].
+2023-05-08 18:38:47.687 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Loaded instrument service [SkyApm.Service.CLRStatsService].
+2023-05-08 18:38:47.687 +08:00 [GlobalProjectApi] [Information] SkyApm.Sampling.SimpleCountSamplingInterceptor : Loaded instrument service [SkyApm.Sampling.SimpleCountSamplingInterceptor].
+2023-05-08 18:38:47.687 +08:00 [GlobalProjectApi] [Information] SkyApm.Transport.Grpc.V6.ConnectService : Loaded instrument service [SkyApm.Transport.Grpc.V6.ConnectService].
+2023-05-08 18:38:47.714 +08:00 [GlobalProjectApi] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [Microsoft.AspNetCore].
+2023-05-08 18:38:47.714 +08:00 [GlobalProjectApi] [Information] SkyApm.InstrumentStartup : Started SkyAPM .NET Core Agent.
+2023-05-08 18:38:47.763 +08:00 [GlobalProjectApi] [Information] SkyApm.Transport.Grpc.ConnectionManager : Connected server[localhost:11800].
+2023-05-08 18:38:48.255 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.RegisterService : Registered Service[Id=8].
+2023-05-08 18:38:48.823 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.RegisterService : Registered ServiceInstance[Id=13].
+2023-05-08 18:38:55.669 +08:00 [GlobalProjectApi] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [HttpHandlerDiagnosticListener].
+2023-05-08 18:38:56.739 +08:00 [GlobalProjectApi] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 5 trace segment. cost: 00:00:00.0380396s
+2023-05-08 18:39:02.709 +08:00 [GlobalProjectApi] [Information] SkyApm.Transport.Grpc.V6.SegmentReporter : Report 5 trace segment. cost: 00:00:00.0056764s
+2023-05-08 18:39:17.694 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 10:39:17 +00:00
+2023-05-08 18:39:17.695 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 1 1 0 9M ThreadPool 32764 32767 1000 1000
+2023-05-08 18:39:47.694 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 9M ThreadPool 32757 32767 1000 1000
+2023-05-08 18:40:17.695 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 10:40:17 +00:00
+2023-05-08 18:40:17.696 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 9M ThreadPool 32756 32767 1000 1000
+2023-05-08 18:40:47.702 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 10M ThreadPool 32762 32767 1000 1000
+2023-05-08 18:41:17.702 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 10:41:17 +00:00
+2023-05-08 18:41:17.703 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 10M ThreadPool 32758 32767 1000 1000
+2023-05-08 18:41:47.691 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 10M ThreadPool 32763 32767 1000 1000
+2023-05-08 18:42:17.696 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 11M ThreadPool 32762 32767 1000 1000
+2023-05-08 18:42:17.698 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 10:42:17 +00:00
+2023-05-08 18:42:47.704 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 11M ThreadPool 32763 32767 1000 1000
+2023-05-08 18:43:17.690 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 11M ThreadPool 32762 32767 1000 1000
+2023-05-08 18:43:17.691 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 10:43:17 +00:00
+2023-05-08 18:43:47.698 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 11M ThreadPool 32763 32767 1000 1000
+2023-05-08 18:44:17.697 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 10:44:17 +00:00
+2023-05-08 18:44:17.697 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 12M ThreadPool 32761 32767 1000 1000
+2023-05-08 18:44:47.696 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 12M ThreadPool 32763 32767 1000 1000
+2023-05-08 18:45:17.694 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 10:45:17 +00:00
+2023-05-08 18:45:17.694 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 12M ThreadPool 32762 32767 1000 1000
+2023-05-08 18:45:47.701 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 13M ThreadPool 32763 32767 1000 1000
+2023-05-08 18:46:17.710 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 13M ThreadPool 32763 32767 1000 1000
+2023-05-08 18:46:17.710 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 10:46:17 +00:00
+2023-05-08 18:46:47.700 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 13M ThreadPool 32762 32767 1000 1000
+2023-05-08 18:47:17.693 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 13M ThreadPool 32761 32767 1000 1000
+2023-05-08 18:47:17.693 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 10:47:17 +00:00
+2023-05-08 18:47:47.694 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 14M ThreadPool 32759 32767 1000 1000
+2023-05-08 18:48:17.698 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 14M ThreadPool 32761 32767 1000 1000
+2023-05-08 18:48:17.698 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Ping server @2023/5/8 10:48:17 +00:00
+2023-05-08 18:48:47.690 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 14M ThreadPool 32763 32767 1000 1000
+2023-05-08 18:48:59.524 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.RegisterService : Stopped instrument service RegisterService.
+2023-05-08 18:48:59.524 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.PingService : Stopped instrument service PingService.
+2023-05-08 18:48:59.524 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.ServiceDiscoveryV5Service : Stopped instrument service ServiceDiscoveryV5Service.
+2023-05-08 18:48:59.524 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.SegmentReportService : Stopped instrument service SegmentReportService.
+2023-05-08 18:48:59.524 +08:00 [GlobalProjectApi] [Information] SkyApm.Service.CLRStatsService : Stopped instrument service CLRStatsService.
+2023-05-08 18:48:59.524 +08:00 [GlobalProjectApi] [Information] SkyApm.Sampling.SimpleCountSamplingInterceptor : Stopped instrument service SimpleCountSamplingInterceptor.
+2023-05-08 18:48:59.524 +08:00 [GlobalProjectApi] [Information] SkyApm.Transport.Grpc.V6.ConnectService : Stopped instrument service ConnectService.
+2023-05-08 18:48:59.524 +08:00 [GlobalProjectApi] [Information] SkyApm.InstrumentStartup : Stopped SkyAPM .NET Core Agent.

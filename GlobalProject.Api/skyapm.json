@@ -1,7 +1,7 @@
 {
   "SkyWalking": {
-    "ServiceName": "[asp-net-sample]",
-    "Namespace": "",
+    "ServiceName": "GlobalProjectApi",
+    "Namespace": "GlobalProject",
     "HeaderVersions": [
       "sw6"
     ],
